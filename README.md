@@ -27,6 +27,11 @@ By combining these principles, Zero-DCE achieves natural and visually pleasing r
 - **Matplotlib**, **PIL** for visualizing and saving images  
 
 
+## Example Implementation Result
+Here is an image of a chair placed in the "sample" folder:
+![Chair Image](sample/Chair.jpeg)
+
+
 ## References  
  This work is inspired by the [Zero-DCE paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Guo_Zero-Reference_Deep_Curve_Estimation_for_Low-Light_Image_Enhancement_CVPR_2020_paper.pdf), which details the deep curve estimation model and its groundbreaking applications in low-light image enhancement.
 
